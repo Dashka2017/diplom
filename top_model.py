@@ -3,7 +3,7 @@ from keras.layers import Activation, Dropout, Flatten, Dense
 
 from keras import backend as K
 K.set_image_dim_ordering('th')
-
+#change
 import os
 import numpy as np
 import h5py
