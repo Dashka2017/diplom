@@ -2,7 +2,7 @@ from keras.preprocessing.image import ImageDataGenerator
 from keras.applications.inception_v3 import InceptionV3
 from keras import backend as K
 K.set_image_dim_ordering('th')
-
+#ok
 import numpy as np
 import os
 
